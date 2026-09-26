@@ -1,0 +1,158 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+
+}
+
+header{
+    margin: 47px 0px 0 42px;
+}
+
+.link-header{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 100%;
+    color: #17233D;
+    cursor: pointer;
+    margin-left: 32px;
+}
+
+.link-header:hover{
+    opacity: .8
+}
+
+.link-header:active{
+    color: #0551f7
+
+}
+
+img{
+    display: inline-block;
+    margin-top: 178px;  
+    margin-left: 121px;
+    margin-right: 84.82px;
+}
+
+section{
+    display: inline-block;
+    width: 582px;
+}
+
+
+button{
+    background-color: #6FBF44;
+    width: 124px;
+    height: 51px;
+    border: solid 1px #4CB538;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    color: #FFFFFF;
+    margin-left: 32px;
+}
+
+button:hover{
+    opacity: 0.8;
+}
+
+button:active{
+    opacity: 0.5;
+}
+
+h1{
+    font-size: 62px;
+    font-weight: 700;
+    line-height: 82px;
+    color:#161A49;
+}
+
+p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 33px;
+    color: #4B505A;
+    margin-top: 47px;
+    margin-bottom: 55px;
+}
+
+.link-section{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 100%;
+    color: #6FBF44;
+    cursor: pointer;
+}
+
+.link-section:hover{
+    opacity: .8;
+}
+
+.link-section:active{
+    color:#10f1a6;
+
+}  
+    
+@media screen and (max-width: 900px){
+
+    .link-header{
+        display: none;
+    }
+
+    button{
+        position: absolute;
+        right: 15px;
+        width: 91px;
+        height: 31px;
+        font-size: 12px;
+        margin-top: 24px;
+        margin-left: 284px;
+
+    }
+
+
+    img{
+        position: absolute;
+        bottom: 0; 
+        width: 312px;
+        margin-left: 39px;
+        margin-right: 39px;
+        margin-top: 59px;
+        
+    }
+
+    h1{
+        font-size: 30px;
+        width: 278px;
+        text-align: center;
+        margin-top: 124px;
+        margin-left: 55px;
+        margin-right: 59px;
+    }
+
+    p{
+        font-size: 18px;
+        margin-left: 43px;
+        margin-right: 43px;
+        margin-bottom: 26px;
+        text-align: center;
+        width: 304px;
+    }
+
+
+    .link-section{
+        font-size: 18px;
+        text-align: center;
+        margin-left: 139px;
+        margin-right: 139px;
+        margin-bottom: 59px;
+
+    }
+
+
+
+
+  
+}
