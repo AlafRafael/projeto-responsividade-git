@@ -9,3 +9,7 @@
 <p>-CSS</p>
 
 <img src="https://github.com/AlafRafael/projeto-responsividade-git/blob/main/assets/Desktop.png?raw=true">
+<br>
+<p>esse projeto também e responsivo</p>
+
+<img src="https://github.com/AlafRafael/projeto-responsividade-git/blob/main/assets/mobile.png?raw=true">
