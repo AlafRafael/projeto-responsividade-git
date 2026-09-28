@@ -7,3 +7,5 @@
 <br>
 <p>-HTML</p>
 <p>-CSS</p>
+
+<img src="https://github.com/AlafRafael/projeto-responsividade-git/blob/main/assets/Desktop.png?raw=true">
